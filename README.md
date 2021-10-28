@@ -1,2 +1,6 @@
 # LeetCode-solution
-# LeetCode-solution
+
+```
+@author
+Nutfilloyev Bexruz
+```
