@@ -1,4 +1,3 @@
-
 def twoSum(nums, target):
     print(nums)
     for i in range(len(nums)):
