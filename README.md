@@ -11,6 +11,6 @@ LeetCode
 | 13   |[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [python](Algorithms/python/RomanToInteger/roman2integer.py)                   | Easy       |
 | 9    |[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[python](Algorithms/python/PalindromeNumber/PalindromeNumber.py)|Easy|
 | 2    |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [python](Algorithms/python/AddTwoNumbers/AddTwoNumbers.py)                                                                    | Medium     |
-| 1    |[Two Sum](https://leetcode.com/problems/two-sum/)| [python](Algorithms/python/TwoSum/Two_Sum.py)                                 | Easy       |  
+| 1    |[Two Sum](https://leetcode.com/problems/two-sum/)| [python](Algorithms/python/TwoSum/Two_Sum.py), [C++](Algorithms/C++/TwoSum/twoSum.cpp)                               | Easy       |  
 
 
