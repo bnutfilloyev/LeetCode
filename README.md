@@ -16,7 +16,8 @@ LeetCode
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                                                  | [python](Algorithms/python/PalindromeNumber/PalindromeNumber.py)                       | Easy       |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                     | [python](Algorithms/python/AddTwoNumbers/AddTwoNumbers.py)                             | Medium     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                     | [python](Algorithms/python/TwoSum/Two_Sum.py), [C++](Algorithms/C++/TwoSum/twoSum.cpp) | Easy       | 
-
+| 1018   | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)                                                                     | [python](Algorithms/python/Binary Prefix Divisible By 5)                     | Easy      |                                                    |[python]
+ 
 
 
  
