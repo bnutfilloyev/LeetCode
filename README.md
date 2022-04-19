@@ -53,7 +53,12 @@ LeetCode
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                              | [python](Algorithms/python/AddTwoNumbers/AddTwoNumbers.py), [C++](Algorithms/C++/AddTwoNumbers/add-two-numbers.cpp)                         | Medium     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                              | [python](Algorithms/python/TwoSum/Two_Sum.py), [C++](Algorithms/C++/TwoSum/twoSum.cpp)                                                      | Easy       |
 
- 
+### Wix Engineering
+| #   | Problem                                                                       | Solution                                                      |
+|-----|-------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 1   | [Unique Email Addresses](Algorithms/python/WixEngineering/wix-engineering.py) | [python](Algorithms/python/WixEngineering/wix-engineering.py) |
+
+
 
 
  
