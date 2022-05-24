@@ -1,3 +1,7 @@
+from collections import Counter
+from typing import List
+
+
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
         ct = Counter(nums)
