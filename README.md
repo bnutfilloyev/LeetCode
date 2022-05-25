@@ -1,4 +1,4 @@
-1. LeetCode
+LeetCode - Uzbek Community
 ========
 
 ### 1.0.1. LeetCode Algorithm
