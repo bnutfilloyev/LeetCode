@@ -70,6 +70,7 @@ LeetCode - Uzbek Community
 | 1      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                 | [python](Algorithms/python/TwoSum/Two_Sum.py), [C++](Algorithms/C++/TwoSum/twoSum.cpp)                                                      | Easy       |
 
 ### 1.0.2. Wix Engineering
+
 | #   | Problem                                                                       | Solution                                                      |
 | --- | ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | 1   | [Unique Email Addresses](Algorithms/python/WixEngineering/wix-engineering.py) | [python](Algorithms/python/WixEngineering/wix-engineering.py) |
